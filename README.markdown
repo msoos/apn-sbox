@@ -1,4 +1,4 @@
-# sbox
+# APN S-box generator
 Almost perfect non-linear (APN) S-box finder. These s-boxes provide optimal resistance against differential attacks. Dillon et al. has constructed one s-box in n=6 in 2009. If you can solve this, you can construct one too. Set s=8 and try to solve :)
 
 Many thanks to Ivica Nikolic for the problem description and then many discussions.
