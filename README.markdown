@@ -14,3 +14,5 @@ git submodule update
 lingeling sbox_problem_36.cnf
 ```
 This should solve in some seconds. It gives 36 of Dillon's 64 s-box settings to the solver, so it won't find a new solution, just re-find the old one. Note that `sbox_problem_35.cnf` is a lot harder. It only gets worse for n=8 -- there is no known solution there... yet.
+
+For more information about almost perfectly non-linear functions, see [here](https://www.ucc.ie/en/media/academic/centreforplanningeducationresearch/FGologlu.pdf) and [here](http://orion.math.iastate.edu/dept/thesisarchive/PHD/MaxwellPhDS05.pdf).
